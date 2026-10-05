@@ -1,0 +1,106 @@
+{
+  "slug": "buttermilkclear",
+  "box": 154,
+  "date": "2026-10-10",
+  "title": "ButtermilkClear",
+  "question": "How is buttermilk made?",
+  "hook": "Buttermilk has no butter in it. It is what the churn leaves behind once the butter is out, and it is also the name of a drink no churn ever touched. Churn a pot of dahi, watch the curd specks sink in a glass of chaas, pour a tadka, and work out why a cup of it makes a pancake rise.",
+  "thumbText": "HOW BUTTERMILK IS MADE",
+  "field": "chemistry",
+  "minutes": 15,
+  "tags": [
+    "buttermilk",
+    "chaas",
+    "lassi",
+    "dahi",
+    "churning",
+    "lactic acid",
+    "fermentation",
+    "baking soda",
+    "food science",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two drinks, one name",
+      "text": "Traditional buttermilk is the thin, sour liquid left when butter is churned out of dahi or soured cream. Chaas, also called mattha, taak, moru, majjige or ghol, is dahi beaten with water. A dairy's cultured buttermilk is skim milk soured by chosen bacteria. FSSAI groups lassi, chhaach and buttermilk as drinks based on fermented milk, with at least 40% fermented milk."
+    },
+    {
+      "title": "The churn takes the fat and leaves the rest",
+      "text": "The mathani tears the skins off the fat globules, which stick into grains of makhan. The water, protein, lactose, acid and the torn membrane pieces all stay behind. A clay pot at 18 °C gets about two thirds of the fat out, and less when it is warm, so home buttermilk keeps more fat than a dairy's 0.5%."
+    },
+    {
+      "title": "Sour, thin, and it settles",
+      "text": "Bacteria turn lactose into lactic acid and the pH falls from about 6.6 to 4.5. Near pH 4.6 the casein links into a gel. Churning breaks the gel into soft specks tens of micrometres wide. They make chaas a few times thicker than water, and by Stokes' law they slowly sink, leaving clear whey on top until you stir."
+    },
+    {
+      "title": "Water, salt and a tadka",
+      "text": "The recipe is mostly one choice: how much water. A little gives thick lassi, equal parts give chaas, more gives a thin summer drink. Salt, roasted jeera, ginger and curry leaves go in, and a tadka of spices crackled in hot oil carries their aromas, which dissolve in fat. One gram of salt is about a fifth of WHO's daily sodium limit."
+    },
+    {
+      "title": "The dairy and the oven",
+      "text": "A dairy heats skim milk to about 90 °C, cools it to about 22 °C and sours it for 12 to 16 hours with Lactococcus and aroma-making Leuconostoc. In baking, the lactic acid meets baking soda and makes carbon dioxide: a cup of buttermilk has enough acid for about 1.6 g of soda and gives nearly half a litre of gas."
+    },
+    {
+      "title": "It keeps souring",
+      "text": "The bacteria are still alive, so chaas left out on a hot day turns sharply sour in hours, while a fridge almost stops them. Sour does not mean unsafe and mild does not mean safe: use boiled or pasteurised milk, clean vessels and safe water, and keep it cold. It replaces water and salt. It is not lactose-free, and it is not medicine."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Traditional buttermilk",
+      "def": "The thin, sour liquid left in the churn after the butter has been taken out."
+    },
+    {
+      "term": "Chaas",
+      "def": "Dahi beaten with water, salted and often spiced. Called mattha, taak, moru, majjige, majjiga or ghol in other Indian languages."
+    },
+    {
+      "term": "Cultured buttermilk",
+      "def": "Skim or low-fat milk soured in a dairy by chosen lactic acid bacteria. No butter is made from it."
+    },
+    {
+      "term": "Phase inversion",
+      "def": "An emulsion turning inside out, as when fat-in-water cream becomes water-in-fat butter and buttermilk runs free."
+    },
+    {
+      "term": "Isoelectric point",
+      "def": "The pH at which a protein carries no net charge. For casein it is 4.6, and that is where milk sets."
+    },
+    {
+      "term": "Floc",
+      "def": "A soft speck of broken curd, tens of micrometres across. Flocs make chaas cloudy and slowly sink."
+    },
+    {
+      "term": "Stokes' law",
+      "def": "The speed of a small ball through a liquid: v = d² Δρ g ÷ 18 η. Twice the diameter means four times the speed."
+    },
+    {
+      "term": "Tadka",
+      "def": "Spices crackled in hot oil or ghee and poured over a dish. The fat carries their aromas."
+    },
+    {
+      "term": "Baking soda",
+      "def": "Sodium bicarbonate, a mild base. With an acid such as the lactic acid in buttermilk it gives carbon dioxide gas."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "buttermilkclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

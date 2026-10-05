@@ -1,0 +1,125 @@
+{
+  "slug": "buttermilkclear",
+  "box": 154,
+  "question": "How is buttermilk made?",
+  "url": "https://glassbox.how/e/buttermilkclear/",
+  "app": "https://glassbox.how/buttermilkclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "Eight thousand years from sour milk shaken in a skin bag to spiced chaas in a carton.\n\n200: Takra gets a recipe\n1780: The acid in sour milk\n1846: Soda meets buttermilk\n1879: The separator ends sour buttermilk\n1925: Buttermilk without butter\n1970: Operation Flood\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/buttermilkclear/history (link in bio)\n\nThen play with how it works: glassbox.how/buttermilkclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #buttermilk #chaas #lassi #dahi #churning #lacticacid #history",
+      "youtube": {
+        "title": "The history of buttermilk in 45 seconds #shorts",
+        "description": "Eight thousand years from sour milk shaken in a skin bag to spiced chaas in a carton.\n\n200 · Takra gets a recipe (Compilers of the Charaka Samhita and the Sushruta Samhita)\n1780 · The acid in sour milk (Carl Wilhelm Scheele)\n1846 · Soda meets buttermilk (John Dwight and Austin Church)\n1879 · The separator ends sour buttermilk (Gustaf de Laval)\n1925 · Buttermilk without butter (Commercial dairies)\n1970 · Operation Flood (National Dairy Development Board, led by Verghese Kurien)\n\n▶ Full history: https://glassbox.how/e/buttermilkclear/history/\n▶ Play with it: https://glassbox.how/e/buttermilkclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How is buttermilk made?\n\nButtermilk has no butter in it. It is what the churn leaves behind once the butter is out, and it is also the name of a drink no churn ever touched. Churn a pot of dahi, watch the curd specks sink in a glass of chaas, pour a tadka, and work out why a cup of it makes a pancake rise.\n\n→ Buttermilk is two drinks with one name: the liquid left after churning butter, and dahi beaten with water.\n→ Churn dahi with cold water. Fat globules lose their skins, stick together and grow into grains of makhan.\n→ Lift the makhan out. The water, protein, milk sugar and acid stay behind: that is traditional buttermilk.\n→ Bacteria turn milk sugar into lactic acid. Near pH 4.6 the milk protein links up and the milk sets.\n→ Churning breaks the gel into specks. They slowly sink, leaving clear whey on top. A stir fixes it.\n\nPlay with it yourself. It's free and open source: glassbox.how/buttermilkclear (link in bio)\n\nBox No. 154 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #buttermilk #chaas #lassi #dahi #churning #lacticacid #fermentation #bakingsoda #foodscience",
+    "carousel": "Swipe through: How is buttermilk made?\n\nButtermilk has no butter in it. It is what the churn leaves behind once the butter is out, and it is also the name of a drink no churn ever touched. Churn a pot of dahi, watch the curd specks sink in a glass of chaas, pour a tadka, and work out why a cup of it makes a pancake rise.\n\nSave this for later, then play with the interactive version at glassbox.how/buttermilkclear (link in bio).\n\nBox No. 154 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #buttermilk #chaas #lassi #dahi #churning #lacticacid",
+    "youtube": {
+      "title": "How is buttermilk made? #shorts",
+      "description": "Buttermilk has no butter in it. It is what the churn leaves behind once the butter is out, and it is also the name of a drink no churn ever touched. Churn a pot of dahi, watch the curd specks sink in a glass of chaas, pour a tadka, and work out why a cup of it makes a pancake rise.\n\n▶ Play with it: https://glassbox.how/e/buttermilkclear/\n⌘ Source code (MIT): https://github.com/bdeeps/buttermilkclear\n\nBox No. 154 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How is buttermilk made? (interactive explainer)",
+      "description": "Buttermilk has no butter in it. It is what the churn leaves behind once the butter is out, and it is also the name of a drink no churn ever touched. Churn a pot of dahi, watch the curd specks sink in a glass of chaas, pour a tadka, and work out why a cup of it makes a pancake rise.\n\n▶ Play with the interactive version: https://glassbox.how/e/buttermilkclear/\n⌘ Source code (MIT): https://github.com/bdeeps/buttermilkclear\n\nIn this video:\n• Two drinks, one name. Traditional buttermilk is the thin, sour liquid left when butter is churned out of dahi or soured cream.\n• The churn takes the fat and leaves the rest. The mathani tears the skins off the fat globules, which stick into grains of makhan.\n• Sour, thin, and it settles. Bacteria turn lactose into lactic acid and the pH falls from about 6.6 to 4.5.\n• Water, salt and a tadka. The recipe is mostly one choice: how much water.\n• The dairy and the oven. A dairy heats skim milk to about 90 °C, cools it to about 22 °C and sours it for 12 to 16 hours with Lactococcus and aroma-making Leuconostoc.\n• It keeps souring. The bacteria are still alive, so chaas left out on a hot day turns sharply sour in hours, while a fridge almost stops them.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How is buttermilk made?\n\nButtermilk has no butter in it.\n\nPlay with it: https://glassbox.how/e/buttermilkclear/",
+    "linkedin": "How is buttermilk made?\n\nButtermilk has no butter in it. It is what the churn leaves behind once the butter is out, and it is also the name of a drink no churn ever touched. Churn a pot of dahi, watch the curd specks sink in a glass of chaas, pour a tadka, and work out why a cup of it makes a pancake rise.\n\n1. Two drinks, one name\n2. The churn takes the fat and leaves the rest\n3. Sour, thin, and it settles\n4. Water, salt and a tadka\n5. The dairy and the oven\n6. It keeps souring\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 154 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/buttermilkclear/\nCode: https://github.com/bdeeps/buttermilkclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-06T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-05T17:17:42.252Z"
+}

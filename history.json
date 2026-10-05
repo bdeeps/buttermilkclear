@@ -1,0 +1,981 @@
+{
+  "title": "The history of buttermilk",
+  "tagline": "Eight thousand years from sour milk shaken in a skin bag to spiced chaas in a carton.",
+  "intro": "Buttermilk began as a leftover: the thin, sour liquid in the churn once the butter was out. India made it a drink in its own right, with a recipe written down some two thousand years ago. Then the cream separator made real buttermilk scarce in the West, and dairies learned to make it with bacteria alone.",
+  "eras": [
+    {
+      "id": "pot",
+      "name": "Pots, skins and sour milk",
+      "from": -7000,
+      "to": -1300,
+      "color": "#5ce1a9",
+      "summary": "Herders learn to keep milk in pots and skins. It sours, they shake it, and they get butter and the thin drink left behind."
+    },
+    {
+      "id": "story",
+      "name": "Takra, moru and ayran",
+      "from": -1500,
+      "to": 1650,
+      "color": "#ffb547",
+      "summary": "Buttermilk is sold by Tamil cowherds, given a recipe in Ayurveda, churned by gods in a great story, and written into dictionaries from Persia to Central Asia."
+    },
+    {
+      "id": "science",
+      "name": "Globules, acid and soda",
+      "from": 1650,
+      "to": 1878,
+      "color": "#c49bff",
+      "summary": "A microscope shows the fat globules, a chemist finds the acid in sour milk, a law explains settling, and baking soda gives buttermilk a job in the oven."
+    },
+    {
+      "id": "dairy",
+      "name": "Buttermilk without butter",
+      "from": 1878,
+      "to": 1945,
+      "color": "#ff7a59",
+      "summary": "The cream separator makes sweet butter and thin, sweet buttermilk. Dairies learn to choose their bacteria and begin souring skim milk on purpose."
+    },
+    {
+      "id": "india",
+      "name": "Chaas in a packet",
+      "from": 1945,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "India's milk co-operatives grow, chaas and lassi move into pouches and cartons, and standards say what the names mean."
+    }
+  ],
+  "events": [
+    {
+      "year": -6500,
+      "date": "7th millennium BCE",
+      "era": "pot",
+      "art": "vessels",
+      "key": false,
+      "title": "Milk fat in the oldest pots",
+      "who": "Early farmers and herders",
+      "where": "North-western Anatolia and the Near East",
+      "country": "Turkey",
+      "text": "Chemists led by Richard Evershed tested more than 2,200 ancient pots from the Near East and south-eastern Europe. Many still held traces of milk fat, the oldest from the seventh millennium BCE. People were already storing and working milk, not just drinking it.",
+      "why": "Once milk is kept in a pot it sours, and sour milk is the starting point of both butter and buttermilk.",
+      "box": "names",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": -4200,
+      "date": "c. 4500 to 3500 BCE",
+      "era": "pot",
+      "art": "vessels",
+      "key": false,
+      "title": "A clay churn you rock like a cradle",
+      "who": "Potters of the Ghassulian and Beersheba cultures",
+      "where": "Bir Abu Matar, near Beersheba, southern Levant",
+      "country": "Israel",
+      "text": "Copper Age villagers made pots shaped like a waterskin lying on its side, with a handle at each end. Archaeologists read them as butter churns, hung from a rope and rocked. Nomads did the same with real skin bags, shaking the milk until the butter came.",
+      "why": "Every churn, whatever its shape, gives two things: butter, and the buttermilk left behind.",
+      "box": "churn",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": -2500,
+      "date": "c. 2500 BCE",
+      "era": "pot",
+      "art": "vessels",
+      "key": false,
+      "title": "Dairy fat in Indus valley pots",
+      "who": "People of the Indus civilisation; studied by Kalyan Sekhar Chakraborty and colleagues",
+      "where": "Kotada Bhadli, Kutch, Gujarat",
+      "country": "India",
+      "text": "Researchers tested 59 pieces of pottery from Kotada Bhadli, a small Indus settlement in Gujarat. Twenty-two of them held dairy fats, from the milk of cattle and water buffalo. The study was published in Scientific Reports in 2020.",
+      "why": "It is the earliest direct evidence of dairy processing in South Asia, in the same region that drinks chaas with every meal today.",
+      "box": "names",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": -1600,
+      "date": "c. 1600 BCE",
+      "era": "pot",
+      "art": "flask",
+      "key": false,
+      "title": "Fermented milk in a desert grave",
+      "who": "People of the Xiaohe cemetery",
+      "where": "Tarim Basin, Xinjiang",
+      "country": "China",
+      "text": "Lumps of a dairy product were found on mummies buried about 3,600 years ago in the Xiaohe cemetery. Analysis showed it had been fermented with the kind of bacteria and yeasts found in kefir, a fizzy sour milk drink of the Caucasus.",
+      "why": "Sour milk drinks, cousins of chaas, are among the oldest prepared foods we can still identify.",
+      "box": "sour",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": -1200,
+      "date": "c. 1500 to 1000 BCE (dates debated)",
+      "era": "story",
+      "art": "scroll",
+      "key": false,
+      "title": "Curd and churning in the Vedas",
+      "who": "Composers of the Vedic hymns",
+      "where": "North-western Indian subcontinent",
+      "country": "India",
+      "text": "The Rigveda is usually dated to around 1500 to 1000 BCE. Its hymns speak of dadhi, curd, and of ghrita, ghee, which can only be made by churning. In the Vedic period milk and its products were a main part of the diet.",
+      "why": "Where there is ghee there has been a churn, and where there is a churn there is buttermilk.",
+      "box": "churn",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 100,
+      "date": "c. 300 BCE to 300 CE",
+      "era": "story",
+      "art": "person",
+      "key": false,
+      "title": "Cowherds sell buttermilk",
+      "who": "Cowherd families of the Tamil country",
+      "where": "South India",
+      "country": "India",
+      "text": "The Sangam poems of ancient Tamil describe the food of each kind of land. In the pasture lands lived cattle herders, and the Pattuppattu poems mention them selling milk and buttermilk, their speciality. In Tamil the drink is still called moru.",
+      "why": "It shows buttermilk as an everyday drink that people bought and sold about two thousand years ago.",
+      "box": "chaas",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 200,
+      "date": "c. 100 BCE to 400 CE (layers, dates debated)",
+      "era": "story",
+      "art": "scroll",
+      "key": true,
+      "title": "Takra gets a recipe",
+      "who": "Compilers of the Charaka Samhita and the Sushruta Samhita",
+      "where": "India",
+      "country": "India",
+      "text": "The founding texts of Ayurveda list takra, buttermilk, among foods and drinks. The Sushruta Samhita describes it as curd that is churned, with its fat removed and half its quantity of water added, neither too thick nor too thin. It names ghola as curd churned with no water and the fat left in. The texts praise takra highly, in the terms of that tradition.",
+      "why": "It is one of the oldest written recipes for the drink, and it already sorts buttermilk by water and fat, as this box does.",
+      "box": "chaas",
+      "sources": [
+        10,
+        9,
+        8
+      ]
+    },
+    {
+      "year": 300,
+      "date": "Early centuries CE (the texts are hard to date)",
+      "era": "story",
+      "art": "wave",
+      "key": false,
+      "title": "The churning of the ocean",
+      "who": "Told in the Mahabharata, the Vishnu Purana and the Bhagavata Purana",
+      "where": "India",
+      "country": "India",
+      "text": "In the Samudra manthan, gods and asuras churn the ocean of milk to bring up amrita, the nectar of immortality. Mount Mandara is the churning rod and the serpent Vasuki is the rope, pulled from both sides.",
+      "why": "The story is a giant picture of the household mathani: a rod, a rope and two teams pulling in turn.",
+      "box": "churn",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 550,
+      "date": "c. 6th century CE",
+      "era": "story",
+      "art": "drum",
+      "key": false,
+      "title": "The plunge churn in Europe",
+      "who": "Farmers of early medieval Europe",
+      "where": "Scotland",
+      "country": "United Kingdom",
+      "text": "A wooden lid found in Scotland, dated to about the sixth century, appears to come from a plunge churn: a tall tub with a staff pushed up and down through a hole in the lid. The design lasted in farm kitchens for more than a thousand years.",
+      "why": "Northern Europe got its buttermilk from soured cream in a dash churn, where India got it from dahi in a clay pot.",
+      "box": "churn",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 900,
+      "date": "c. 500 to 1000 CE (scholars differ)",
+      "era": "story",
+      "art": "person",
+      "key": false,
+      "title": "Krishna, the makhan chor",
+      "who": "The tradition of the Bhagavata Purana",
+      "where": "Gokul and Vrindavan, in the Braj country",
+      "country": "India",
+      "text": "The tenth book of the Bhagavata Purana tells of Krishna's childhood among cowherds, where the little boy steals freshly churned makhan from his neighbours' pots. At Janmashtami, teams still build human pyramids to break a hanging pot in the dahi handi.",
+      "why": "The stories are set in homes where churning was the first job of the morning and buttermilk was what the family drank.",
+      "box": "churn",
+      "sources": [
+        12,
+        13
+      ]
+    },
+    {
+      "year": 1025,
+      "date": "1025",
+      "era": "story",
+      "art": "scroll",
+      "key": false,
+      "title": "Doogh in a Persian medical book",
+      "who": "Ibn Sina (Avicenna)",
+      "where": "Persia",
+      "country": "Iran",
+      "text": "Doogh, Iran's sour milk drink, takes its name from the Persian word for milking. It was already drunk in ancient Persia, and it appears in Avicenna's Canon of Medicine, finished in 1025. Today it is yoghurt thinned with water and salt, often with mint.",
+      "why": "It is the same idea as chaas, reached on its own in another dairy culture.",
+      "box": "chaas",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1073,
+      "date": "c. 1072 to 1074",
+      "era": "story",
+      "art": "word",
+      "key": false,
+      "title": "Ayran is written down",
+      "who": "Mahmud al-Kashgari",
+      "where": "Baghdad",
+      "country": "Iraq",
+      "text": "Mahmud al-Kashgari, a scholar from Kashgar, compiled the first great dictionary of the Turkic languages. It lists ayran as a drink made from milk. Ayran is yoghurt, water and salt, the everyday drink of Turkey and much of Central Asia.",
+      "why": "From Turkey to Tamil Nadu, people who make yoghurt end up thinning it with water and salting it.",
+      "box": "chaas",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1674,
+      "date": "7 April 1674",
+      "era": "science",
+      "art": "lens",
+      "key": false,
+      "title": "Globules in milk",
+      "who": "Antonie van Leeuwenhoek",
+      "where": "Delft, Dutch Republic",
+      "country": "Netherlands",
+      "text": "Leeuwenhoek, a cloth merchant who made his own tiny microscopes, wrote to the Royal Society about small globules he had seen in cow's milk. We now know they are balls of fat, most of them 3 to 4 thousandths of a millimetre across, each in its own membrane.",
+      "why": "Churning is the business of making those globules stick together, and buttermilk is what is left when they have.",
+      "box": "churn",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1750,
+      "date": "18th century",
+      "era": "science",
+      "art": "drum",
+      "key": false,
+      "title": "The barrel churn",
+      "who": "Farmers and coopers of Europe",
+      "where": "Europe",
+      "country": "United Kingdom",
+      "text": "The barrel churn was one of the farm inventions of eighteenth-century Europe. A crank turned a paddle inside a barrel, or tumbled the whole barrel end over end. It handled far more cream than a plunge churn with far less effort.",
+      "why": "Bigger churns meant more butter from each farm, and more buttermilk than one household could drink.",
+      "box": "churn",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1780,
+      "date": "1780",
+      "era": "science",
+      "art": "flask",
+      "key": true,
+      "title": "The acid in sour milk",
+      "who": "Carl Wilhelm Scheele",
+      "where": "Köping, Sweden",
+      "country": "Sweden",
+      "text": "Scheele, a Swedish chemist who ran a pharmacy, separated a new acid from sour milk. It was later named lactic acid, from the Latin word for milk. It is what makes buttermilk, dahi and chaas taste sour.",
+      "why": "The tang now had a name and a formula, and could be measured.",
+      "box": "sour",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1801,
+      "date": "1801",
+      "era": "science",
+      "art": "flask",
+      "key": false,
+      "title": "Baking soda is discovered",
+      "who": "Valentin Rose the Younger",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "The Berlin pharmacist Valentin Rose the Younger is credited with discovering sodium bicarbonate in 1801. Ten years earlier, Nicolas Leblanc in France had found a way to make its parent, soda ash, from salt.",
+      "why": "A cheap, mild base was now on its way to the kitchen, where sour milk was waiting for it.",
+      "box": "dairy",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1846,
+      "date": "1846",
+      "era": "science",
+      "art": "flame",
+      "key": true,
+      "title": "Soda meets buttermilk",
+      "who": "John Dwight and Austin Church",
+      "where": "United States",
+      "country": "United States",
+      "text": "Two American bakers, John Dwight and Austin Church, set up the first factory in the United States to make baking soda. Cooks soon learned that it needs an acid to work, and that sour milk and buttermilk were ideal. Irish soda bread and American buttermilk pancakes and biscuits rise this way.",
+      "why": "It gave buttermilk a second job that it still has: making carbon dioxide in a batter.",
+      "box": "dairy",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851",
+      "era": "science",
+      "art": "waterdrop",
+      "key": false,
+      "title": "A law for small balls in a liquid",
+      "who": "George Gabriel Stokes",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Stokes worked out how fast a small sphere moves through a thick fluid. The speed depends on the difference in density, on how runny the fluid is, and on the square of the sphere's diameter.",
+      "why": "The same law says how fast cream rises in milk and how fast curd specks sink in a glass of chaas.",
+      "box": "sour",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1877 to 1878",
+      "era": "science",
+      "art": "cell",
+      "key": false,
+      "title": "One kind of bacterium, grown alone",
+      "who": "Joseph Lister",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Lister, the surgeon famous for antiseptics, diluted sour milk again and again until a drop held just one bacterium. From it he grew a pure culture of what he called Bacterium lactis and showed that it alone could sour milk. It is now named Lactococcus lactis.",
+      "why": "It is the main acid-making bacterium in a dairy buttermilk starter to this day.",
+      "box": "dairy",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1878 (shown in Stockholm in January 1879)",
+      "era": "dairy",
+      "art": "drum",
+      "key": true,
+      "title": "The separator ends sour buttermilk",
+      "who": "Gustaf de Laval",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "De Laval built a bowl that spun milk so fast that the cream separated in seconds instead of a day. Creameries could now churn fresh, sweet cream before it had time to sour. The buttermilk that ran out of their churns was sweet and thin, and no longer the tangy drink people knew.",
+      "why": "Real sour buttermilk became scarce in the West, which is why dairies later had to make it on purpose.",
+      "box": "dairy",
+      "sources": [
+        27,
+        28,
+        24
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "c. 1890",
+      "era": "dairy",
+      "art": "cell",
+      "key": false,
+      "title": "Choosing the bacteria that sour the cream",
+      "who": "Vilhelm Storch",
+      "where": "Copenhagen, Denmark",
+      "country": "Denmark",
+      "text": "Storch showed that cream sours because of bacteria, and that some kinds give a fine flavour while others spoil it. Danish creameries began to heat their cream first and then add a chosen culture, called a starter.",
+      "why": "The starter culture is the tool that later made cultured buttermilk possible.",
+      "box": "dairy",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "dairy",
+      "art": "scales",
+      "key": false,
+      "title": "A scale for sourness: pH",
+      "who": "Søren Sørensen",
+      "where": "Carlsberg Laboratory, Copenhagen",
+      "country": "Denmark",
+      "text": "Sørensen invented the pH scale to say simply how acidic a liquid is. Fresh milk is about pH 6.6. Casein, the main milk protein, loses its charge at pH 4.6, and that is where milk sets. Buttermilk and chaas sit near pH 4.5.",
+      "why": "One number now told a dairy when a batch was ready.",
+      "box": "sour",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 1920,
+      "date": "1919 to 1920",
+      "era": "dairy",
+      "art": "cell",
+      "key": false,
+      "title": "The bacteria behind the buttery smell",
+      "who": "Bernard W. Hammer; Boekhout and de Vries",
+      "where": "Iowa, United States, and the Netherlands",
+      "country": "United States",
+      "text": "Dairy scientists found that a good starter holds two kinds of bacteria. One makes the acid. The other makes very little acid but gives the aroma. In 1920 Hammer named the aroma-makers, which are now classed as Leuconostoc. In 1929 van Niel, Kluyver and Derx showed that the buttery smell is mainly one molecule, diacetyl.",
+      "why": "It explained why cultured buttermilk needs two partners, and why it is fermented cool, at about 22 °C.",
+      "box": "dairy",
+      "sources": [
+        33,
+        34
+      ]
+    },
+    {
+      "year": 1925,
+      "date": "1920s",
+      "era": "dairy",
+      "art": "flask",
+      "key": true,
+      "title": "Buttermilk without butter",
+      "who": "Commercial dairies",
+      "where": "United States",
+      "country": "United States",
+      "text": "Cultured buttermilk was first sold commercially in the United States in the 1920s. Dairies soured pasteurised skim milk with a starter instead of waiting for a churn. Sales peaked in 1960 at about 517 million kilograms, and by 2012 were less than half that.",
+      "why": "From now on the word buttermilk, in the West, usually meant a drink that had never been near butter.",
+      "box": "dairy",
+      "sources": [
+        35,
+        30
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "14 December 1946",
+      "era": "india",
+      "art": "person",
+      "key": false,
+      "title": "The farmers of Kaira start their own union",
+      "who": "Tribhuvandas Patel, with the backing of Sardar Vallabhbhai Patel and Morarji Desai",
+      "where": "Anand, Kaira district, Gujarat",
+      "country": "India",
+      "text": "After a 15-day milk strike, the farmers of Kaira registered their own co-operative, the Kaira District Co-operative Milk Producers' Union, with Tribhuvandas Patel as chairman. It later took the brand name Amul.",
+      "why": "Co-operatives owned by farmers would become the makers of most of India's packaged dahi, lassi and chaas.",
+      "box": "dairy",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "13 January 1970",
+      "era": "india",
+      "art": "share",
+      "key": true,
+      "title": "Operation Flood",
+      "who": "National Dairy Development Board, led by Verghese Kurien",
+      "where": "India",
+      "country": "India",
+      "text": "The NDDB launched the largest dairy development programme in the world. It ran in three phases until 1996, linking village co-operatives to city markets through a national milk grid. Dairies that began with milk and butter went on to pack dahi, lassi and spiced chaas in pouches and cartons.",
+      "why": "It turned the home drink of villages into something a city commuter could buy cold at a kiosk.",
+      "box": "dairy",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998",
+      "era": "india",
+      "art": "trophy",
+      "key": false,
+      "title": "The world's largest milk producer",
+      "who": "India's dairy farmers",
+      "where": "India",
+      "country": "India",
+      "text": "In 1998 India's milk output passed that of the United States. Production had grown from 17 million tonnes in 1950-51 to about 75 million tonnes in 1998-99, and reached 239.3 million tonnes in 2023-24.",
+      "why": "Much of that milk is never drunk as milk: it becomes dahi, ghee, makhan and the chaas that goes with them.",
+      "box": "",
+      "sources": [
+        38,
+        41,
+        40
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003",
+      "era": "india",
+      "art": "scales",
+      "key": false,
+      "title": "A world standard for fermented milks",
+      "who": "Codex Alimentarius Commission",
+      "where": "Rome, Italy",
+      "country": "Italy",
+      "text": "The world food code, Codex, adopted a standard for fermented milks such as yoghurt and kefir. As later amended, it also covers drinks based on fermented milk, made by mixing fermented milk with water, which must contain at least 40% fermented milk.",
+      "why": "It is the model for the Indian rule on packaged lassi and chaas.",
+      "box": "names",
+      "sources": [
+        42
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011, with later revisions",
+      "era": "india",
+      "art": "scales",
+      "key": true,
+      "title": "What may be called chaas",
+      "who": "Food Safety and Standards Authority of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India's food standards, in force from 2011, define fermented milk products. Lassi, chhaach and buttermilk are named as drinks based on fermented milk: fermented milk mixed with potable water, at least 40% fermented milk by weight. The milk must be heat treated, and the fermented milk part must hold at least ten million live starter bacteria per gram.",
+      "why": "A packet marked chaas now has a legal minimum of dahi in it, and a legal promise that the bacteria are alive.",
+      "box": "chaas",
+      "sources": [
+        44,
+        43
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016, revised 2017 and 2019",
+      "era": "india",
+      "art": "thermometer",
+      "key": false,
+      "title": "Buttermilk in the heat-wave advice",
+      "who": "National Disaster Management Authority",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India issued national guidelines for heat-wave action plans in 2016 and revised them in 2017 and 2019. The public do's and don'ts that go with them say: use ORS and homemade drinks like lassi, torani (rice water), lemon water and buttermilk, which help to rehydrate the body.",
+      "why": "It is an official statement of what chaas does in the heat: it replaces water and salt. It claims no more than that.",
+      "box": "keep",
+      "sources": [
+        45,
+        46
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest direct evidence of milk being processed",
+      "value": "7th millennium BCE",
+      "who": "Pottery from the Near East and Anatolia"
+    },
+    {
+      "label": "Earliest direct evidence of dairy processing in South Asia",
+      "value": "c. 2500 BCE",
+      "who": "Kotada Bhadli, Gujarat, India"
+    },
+    {
+      "label": "An early written recipe for takra: churned curd, fat removed, half as much water",
+      "value": "Early centuries CE",
+      "who": "Sushruta Samhita, India"
+    },
+    {
+      "label": "Lactic acid separated from sour milk",
+      "value": "1780",
+      "who": "Carl Wilhelm Scheele, Sweden"
+    },
+    {
+      "label": "First baking soda factory in the United States",
+      "value": "1846",
+      "who": "John Dwight and Austin Church"
+    },
+    {
+      "label": "Cultured buttermilk first sold commercially",
+      "value": "1920s",
+      "who": "Dairies in the United States"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sushruta (traditional author)",
+      "life": "Dates unknown",
+      "role": "Physician to whom the Sushruta Samhita is attributed",
+      "from": "India",
+      "note": "The text that carries his name describes takra as churned curd with the fat removed and half its quantity of water added."
+    },
+    {
+      "name": "Mahmud al-Kashgari",
+      "life": "c. 1005 – 1102",
+      "role": "Scholar and dictionary-maker",
+      "from": "Kashgar",
+      "note": "His eleventh-century dictionary of the Turkic languages records ayran, the yoghurt-and-water drink."
+    },
+    {
+      "name": "Carl Wilhelm Scheele",
+      "life": "1742 – 1786",
+      "role": "Chemist and pharmacist",
+      "from": "Sweden",
+      "note": "In 1780 he separated the acid of sour milk, later named lactic acid."
+    },
+    {
+      "name": "George Gabriel Stokes",
+      "life": "1819 – 1903",
+      "role": "Mathematician and physicist",
+      "from": "Ireland and England",
+      "note": "His 1851 law gives the speed of a small sphere through a liquid: cream rising, curd specks sinking."
+    },
+    {
+      "name": "Joseph Lister",
+      "life": "1827 – 1912",
+      "role": "Surgeon",
+      "from": "England",
+      "note": "He grew the first pure culture of a milk-souring bacterium, now Lactococcus lactis, in 1877 to 1878."
+    },
+    {
+      "name": "Gustaf de Laval",
+      "life": "1845 – 1913",
+      "role": "Engineer and inventor",
+      "from": "Sweden",
+      "note": "His 1878 cream separator let creameries churn sweet cream, which changed what buttermilk was."
+    },
+    {
+      "name": "Bernard W. Hammer",
+      "life": "Active 1910s – 1940s",
+      "role": "Dairy bacteriologist",
+      "from": "United States",
+      "note": "In 1920 he named the aroma-making bacteria of butter starters, now classed as Leuconostoc."
+    },
+    {
+      "name": "Tribhuvandas Patel",
+      "life": "1903 – 1994",
+      "role": "Co-operative leader",
+      "from": "Gujarat, India",
+      "note": "Founding chairman of the Kaira milk producers' union that became Amul."
+    },
+    {
+      "name": "Verghese Kurien",
+      "life": "1921 – 2012",
+      "role": "Dairy engineer",
+      "from": "Kerala and Gujarat, India",
+      "note": "He led the National Dairy Development Board and Operation Flood."
+    }
+  ],
+  "series": [
+    {
+      "id": "milk",
+      "title": "How much milk India produces in a year",
+      "unit": "million tonnes",
+      "log": false,
+      "after": "india",
+      "caption": "Official figures from the Department of Animal Husbandry and Dairying, as published by the NDDB. A large share of this milk is made into dahi, ghee and makhan, and chaas comes with all three.",
+      "points": [
+        {
+          "year": 1951,
+          "value": 17,
+          "label": "1950-51: 17.0 million tonnes"
+        },
+        {
+          "year": 1961,
+          "value": 20,
+          "label": "1960-61: 20.0 million tonnes"
+        },
+        {
+          "year": 1969,
+          "value": 21.2,
+          "label": "1968-69: 21.2 million tonnes, just before Operation Flood"
+        },
+        {
+          "year": 1981,
+          "value": 31.6,
+          "label": "1980-81: 31.6 million tonnes"
+        },
+        {
+          "year": 1991,
+          "value": 53.9,
+          "label": "1990-91: 53.9 million tonnes"
+        },
+        {
+          "year": 2001,
+          "value": 80.6,
+          "label": "2000-01: 80.6 million tonnes"
+        },
+        {
+          "year": 2011,
+          "value": 121.8,
+          "label": "2010-11: 121.8 million tonnes"
+        },
+        {
+          "year": 2021,
+          "value": 210,
+          "label": "2020-21: 210.0 million tonnes"
+        },
+        {
+          "year": 2024,
+          "value": 239.3,
+          "label": "2023-24: 239.3 million tonnes"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Buttermilk contains no butter. The name means the milk left over from butter.",
+    "A dairy's cultured buttermilk is made from skim milk and bacteria. No churn is involved at any stage.",
+    "A pot and mathani at 18 °C recover about two thirds of the fat, so home-churned buttermilk keeps roughly a third of it.",
+    "The clear, greenish layer on a glass of chaas that has stood for an hour is whey. The curd specks have sunk, by the same law that makes cream rise.",
+    "A cup of cultured buttermilk has enough lactic acid to use up about 1.6 g of baking soda and make nearly half a litre of carbon dioxide.",
+    "The word lassi is first recorded in English only in 1882. The drink itself is far older."
+  ],
+  "sources": [
+    {
+      "title": "Earliest date for milk use in the Near East and southeastern Europe linked to cattle herding (Evershed et al., Nature, 2008)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18690215/"
+    },
+    {
+      "title": "Bir Abu Matar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bir_Abu_Matar"
+    },
+    {
+      "title": "Butter churn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Butter_churn"
+    },
+    {
+      "title": "U of T Mississauga researcher uncovers evidence of earliest known dairy production in India",
+      "publisher": "University of Toronto",
+      "url": "https://www.utoronto.ca/news/u-t-mississauga-researcher-uncovers-evidence-earliest-known-dairy-production-india"
+    },
+    {
+      "title": "Compound specific isotope analysis of lipid residues provides the earliest direct evidence of dairy product processing in South Asia (Chakraborty et al., Scientific Reports, 2020)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/s41598-020-72963-y"
+    },
+    {
+      "title": "Kefir",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kefir"
+    },
+    {
+      "title": "Dairy in India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dairy_in_India"
+    },
+    {
+      "title": "Food culture in the Sangam age through Pathupattu",
+      "publisher": "Kerala Museum",
+      "url": "https://keralamuseum.org/article/food-culture-in-sangam-age-through-pathupattu"
+    },
+    {
+      "title": "Charaka Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charaka_Samhita"
+    },
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "Sushruta Samhita Sutrasthana, chapter 45: knowledge of liquid substances (translation)",
+      "publisher": "Easy Ayurveda",
+      "url": "https://www.easyayurveda.com/sushruta-samhita-sutrasthana-45-dravadravya-vidhi-adhyaya-knowledge-of-liquid-substances/"
+    },
+    {
+      "title": "Samudra Manthana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samudra_Manthana"
+    },
+    {
+      "title": "Bhagavata Purana",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhagavata_Purana"
+    },
+    {
+      "title": "Dahi Handi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dahi_Handi"
+    },
+    {
+      "title": "Ayran",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ayran"
+    },
+    {
+      "title": "Mahmud al-Kashgari",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mahmud_al-Kashgari"
+    },
+    {
+      "title": "Doogh",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doogh"
+    },
+    {
+      "title": "Leeuwenhoek wrote Letter 6 of 1674-04-07 to Henry Oldenburg",
+      "publisher": "Lens on Leeuwenhoek",
+      "url": "https://www.lensonleeuwenhoek.net/content/wrote-letter-6-1674-04-07-henry-oldenburg"
+    },
+    {
+      "title": "Dairy Processing Handbook: The chemistry of milk",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/chemistry-milk"
+    },
+    {
+      "title": "Lactic acid",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactic_acid"
+    },
+    {
+      "title": "Carl Wilhelm Scheele",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
+    },
+    {
+      "title": "Sodium bicarbonate",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sodium_bicarbonate"
+    },
+    {
+      "title": "Soda bread",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Soda_bread"
+    },
+    {
+      "title": "Stokes' law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stokes%27_law"
+    },
+    {
+      "title": "Dairy Processing Handbook: Centrifugal separators and milk standardisation",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/centrifugal-separators-and-milk-standardization"
+    },
+    {
+      "title": "Lister, On the lactic fermentation and its bearings on pathology (1878)",
+      "publisher": "HistoryofMedicine.com",
+      "url": "https://www.historyofmedicine.com/id/3115"
+    },
+    {
+      "title": "Lactococcus lactis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lactococcus_lactis"
+    },
+    {
+      "title": "Where we come from",
+      "publisher": "Alfa Laval",
+      "url": "https://www.alfalaval.com/about-us/where-we-come-from/"
+    },
+    {
+      "title": "Alfa Laval",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alfa_Laval"
+    },
+    {
+      "title": "Dairy Processing Handbook: Butter",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/butter"
+    },
+    {
+      "title": "Dairy Processing Handbook: Fermented milk products",
+      "publisher": "Tetra Pak",
+      "url": "https://dairyprocessinghandbook.tetrapak.com/chapter/fermented-milk-products"
+    },
+    {
+      "title": "pH",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PH"
+    },
+    {
+      "title": "Casein",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Casein"
+    },
+    {
+      "title": "A 100-Year Review: Yogurt and other cultured dairy products (Aryana & Olson, Journal of Dairy Science, 2017)",
+      "publisher": "Journal of Dairy Science",
+      "url": "https://www.journalofdairyscience.org/article/S0022-0302(17)31052-4/fulltext"
+    },
+    {
+      "title": "Leuconostoc mesenteroides",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leuconostoc_mesenteroides"
+    },
+    {
+      "title": "Buttermilk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buttermilk"
+    },
+    {
+      "title": "Amul",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amul"
+    },
+    {
+      "title": "Tribhuvandas Kishibhai Patel",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tribhuvandas_Kishibhai_Patel"
+    },
+    {
+      "title": "Operation Flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Operation_Flood"
+    },
+    {
+      "title": "Genesis",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/about/genesis"
+    },
+    {
+      "title": "Milk production in India",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/information/stats/milkprodindia"
+    },
+    {
+      "title": "Milk production and per capita availability of milk in India",
+      "publisher": "National Dairy Development Board",
+      "url": "https://www.nddb.coop/sites/default/files/Milk-prod_PCA.pdf"
+    },
+    {
+      "title": "Codex Standard for Fermented Milks (CXS 243-2003)",
+      "publisher": "FAO/WHO Codex Alimentarius",
+      "url": "https://www.fao.org/input/download/standards/400/CXS_243e.pdf"
+    },
+    {
+      "title": "Food Safety and Standards Authority of India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Food_Safety_and_Standards_Authority_of_India"
+    },
+    {
+      "title": "Food Products Standards and Food Additives Regulations, chapter 2.1: Dairy products and analogues (version of 4 November 2024)",
+      "publisher": "Food Safety and Standards Authority of India",
+      "url": "https://fssai.gov.in/upload/uploadfiles/files/Chapter%202_1_Dairy%20products%20and%20analogues.pdf"
+    },
+    {
+      "title": "Guidelines for Preparation of Action Plan: Prevention and Management of Heat Wave (2017 revision)",
+      "publisher": "National Institute of Disaster Management, Government of India",
+      "url": "https://nidm.gov.in/pdf/guidelines/new/heatwaveguidelines2017.pdf"
+    },
+    {
+      "title": "Do's and Don'ts: Heat Wave",
+      "publisher": "Karaikal District, Government of Puducherry",
+      "url": "https://karaikal.gov.in/dos-and-donts-heat-wave/"
+    }
+  ]
+}
